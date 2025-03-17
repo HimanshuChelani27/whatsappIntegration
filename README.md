@@ -43,7 +43,7 @@ WHATSAPP_PHONE_NUMBER_ID=your_whatsapp_phone_number_id
 ## Usage
 ### Run the Flask Server
 ```sh
-python app.py
+python main.py
 ```
 
 ### API Endpoints
