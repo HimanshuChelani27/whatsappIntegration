@@ -63,7 +63,7 @@ python main.py
 ```json
 {
   "messaging_product": "whatsapp",
-  "contacts": [{ "input": "919876543210", "wa_id": "919876543210" }],
+  "contacts": [{ "input": "911234567890", "wa_id": "911234567890" }],
   "messages": [{ "id": "wamid..." }]
 }
 ```
